@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/chaddyfinance",
+        href: "https://t.me/chaddybuzz",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/chaddybuzz",
+        href: "https://t.me/chaddyfinance",
       },
       // {
       //   label: "Whale Alert",
